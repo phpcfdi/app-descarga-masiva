@@ -2,5 +2,11 @@
   "extends": "@quasar/app/tsconfig-preset",
   "compilerOptions": {
     "baseUrl": "."
-  }
+  },
+  "exclude": [
+    "test/cypress",
+    "/dist",
+    ".quasar",
+    "node_modules"
+  ]
 }
