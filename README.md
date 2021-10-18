@@ -8,6 +8,16 @@ Quasar application for api-descarga-masiva
 yarn
 ```
 
+## Prepare environment files
+
+For local environment:
+
+```bash
+cp .env.example .env
+```
+
+And update for correct env info.
+
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 
 ```bash
