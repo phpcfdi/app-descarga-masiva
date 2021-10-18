@@ -1,5 +1,7 @@
 <template>
-  <q-page class="row items-center justify-evenly"> </q-page>
+  <q-page class="row items-center justify-evenly">
+    <div class="text-h3">App Descarga Masiva - PHPCFDI</div>
+  </q-page>
 </template>
 
 <script lang="ts">
